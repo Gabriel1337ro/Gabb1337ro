@@ -2,7 +2,7 @@
 
   ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7B2FF2&center=true&vCenter=true&width=600&lines=Gabriel+Figueroa;Full+Stack+Developer;From+Tucumán%2C+Argentina)
 
-  [![English Level](https://img.shields.io/badge/English-C1-7b2ff2?style=flat)](https://www.efset.org/cert/7pzLpB)
+  [![English Level](https://img.shields.io/badge/English-B1-7b2ff2?style=flat)](https://www.efset.org/cert/7pzLpB)
   
   <!-- Estadísticas -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel1337ro&theme=dark&background=181A20&border=7b2ff2&stroke=7b2ff2&ring=00f0ff&fire=f357a8&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=f357a8&sideLabels=7b2ff2)](https://git.io/streak-stats)
